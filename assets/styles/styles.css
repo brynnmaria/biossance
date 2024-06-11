@@ -94,7 +94,8 @@
 }
 
 #hero-baby-heading{
-  font-family: 'BarlowCondensed', Arial, Helvetica, sans-serif;
+  font-family: 'Barlow Condensed', Arial, Helvetica, sans-serif;
+  font-weight: 100;
   color:  rgb(145, 115, 83);
   width: 145px;
   box-shadow: 0px 5px 5px #ffffff;
@@ -203,7 +204,8 @@ left: 145px;
 
 #second-baby-heading{
 
-  font-family: 'BarlowCondensed', Arial, Helvetica, sans-serif;
+  font-family: 'Barlow Condensed', Arial, Helvetica, sans-serif;
+  font-weight: 100;
   color: rgb(145, 115, 83);
   width: 145px;
   position: absolute;
@@ -280,7 +282,8 @@ left: 145px;
 #squaline-serum-heading{
   
   color: rgb(145, 115, 83);
-  font-family: 'BarlowCondensed', Arial, Helvetica, sans-serif;
+  font-family: 'Barlow Condensed', Arial, Helvetica, sans-serif;
+  font-weight: 100;
   border-bottom: 2px solid  rgb(145, 115, 83);
   padding: 13px;
   padding-left: 0;
@@ -376,7 +379,8 @@ left: 145px;
 #eye-cream-heading{
 
   color: rgb(145, 115, 83);
-  font-family: 'BarlowCondensed', Arial, Helvetica, sans-serif;
+  font-family: 'Barlow Condensed', Arial, Helvetica, sans-serif;
+  font-weight: 100;
   border-bottom: 2px solid  rgb(145, 115, 83);
   padding: 13px;
   padding-left: 0;
@@ -429,7 +433,8 @@ left: 145px;
 #omega-repair-cream-heading{
 
   color: rgb(145, 115, 83);
-  font-family: 'BarlowCondensed', Arial, Helvetica, sans-serif;
+  font-family: 'Barlow Condensed', Arial, Helvetica, sans-serif;
+  font-weight: 100;
   border-bottom: 2px solid  rgb(145, 115, 83);
   padding: 13px;
   padding-left: 0;
@@ -483,7 +488,8 @@ left: 145px;
 #vitamin-c-rose-oil-heading{
 
   color: rgb(145, 115, 83);
-  font-family: 'BarlowCondensed', Arial, Helvetica, sans-serif;
+  font-family: 'Barlow Condensed', Arial, Helvetica, sans-serif;
+  font-weight: 100;
   border-bottom: 2px solid  rgb(145, 115, 83);
   padding: 13px;
   padding-left: 0;
@@ -733,7 +739,8 @@ left: 145px;
 
 .form-check-label{
 
-  font-family: Barlow Semi Condensed!important;
+  font-family: 'Barlow Condensed', Arial, Helvetica, sans-serif;
+  font-weight: 100;
   font-size: 12px;
   font-weight: 400;
   font-stretch: semi-condensed;
@@ -941,7 +948,8 @@ left: 145px;
     background: #fff;
     border: 1px solid #858585;
     color: #121212;
-    font-family: Barlow Semi Condensed!important;
+    font-family: 'Barlow Condensed', Arial, Helvetica, sans-serif;
+    font-weight: 100;
     font-size: 16px!important;
     font-weight: 500;
     font-stretch: semi-condensed;
